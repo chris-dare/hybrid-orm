@@ -6,6 +6,8 @@ authors = ["Chris Dare <engineering@chrisdare.me>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+orm = "^0.3.1"
+psycopg2 = "^2.9.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
