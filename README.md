@@ -1,7 +1,10 @@
+
+
+[![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
+
 # hybrid-orm
 
 ORM prototype with multi-database support on a hybrid cloud
-
 
 ### Setup
 
