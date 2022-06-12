@@ -129,8 +129,11 @@ dmypy.json
 .pyre/
 
 
-# experimentation folders
+# this app
+.vscode
 .lab
+hybrid_orm/models
+tests/models
 
 # macOS
 .DS_Store
